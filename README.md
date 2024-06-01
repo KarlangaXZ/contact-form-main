@@ -37,7 +37,7 @@ Los usuarios deben ser capaces de:
 
 ### Enlaces
 
-- URL de la solución: [Repositorio en GitHub](https://github.com/KarlangaXZ/contact-form)
+- URL de la solución: [Repositorio en GitHub]([https://github.com/KarlangaXZ/contact-form](https://github.com/KarlangaXZ/contact-form-main.git))
 - URL del sitio en vivo: [Demo en vivo](https://karlangaxz.github.io/contact-form-main/)
 
 ## Mi Proceso
