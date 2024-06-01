@@ -1,0 +1,113 @@
+/* styles.css */
+
+body {
+    font-family: 'Karla', sans-serif;
+    background-color: hsl(148, 38%, 91%);
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .contact-form {
+    background: hsl(0, 0%, 100%);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+  }
+  
+  .contact-form h1 {
+    color: hsl(187, 24%, 22%);
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: hsl(187, 24%, 22%);
+    font-size: 16px;
+  }
+  
+  .form-group input,
+  .form-group select,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid hsl(186, 15%, 59%);
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .form-group input:focus,
+  .form-group select:focus,
+  .form-group textarea:focus {
+    outline: none;
+    border-color: hsl(169, 82%, 27%);
+  }
+  
+  .form-group textarea {
+    resize: vertical;
+  }
+  
+  button {
+    background-color: hsl(169, 82%, 27%);
+    color: hsl(0, 0%, 100%);
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+  }
+  
+  button:hover {
+    background-color: hsl(169, 82%, 22%);
+  }
+  
+  .error-message {
+    color: hsl(0, 66%, 54%);
+    display: none;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
+  .response-message {
+    margin-top: 15px;
+    font-weight: bold;
+  }
+  
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+  
+  @media (max-width: 375px) {
+    .contact-form {
+      padding: 15px;
+    }
+  
+    .contact-form h1 {
+      font-size: 20px;
+    }
+  
+    button {
+      font-size: 14px;
+    }
+  }
+  
