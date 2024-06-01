@@ -33,7 +33,7 @@ Los usuarios deben ser capaces de:
 
 ### Captura de Pantalla
 
-![Captura de pantalla del formulario de contacto completado](muestra de la pagina.png)
+([muestra de la pagina.png](https://github.com/KarlangaXZ/contact-form-main/blob/66e3074b523d2de27c0ab8c6234012c6db02bc32/muestra%20de%20la%20pagina.png))
 
 ### Enlaces
 
