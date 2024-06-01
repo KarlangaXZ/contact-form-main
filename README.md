@@ -38,7 +38,7 @@ Los usuarios deben ser capaces de:
 ### Enlaces
 
 - URL de la solución: [Repositorio en GitHub](https://github.com/KarlangaXZ/contact-form)
-- URL del sitio en vivo: [Demo en vivo]([https://your-live-site-url.com](https://karlangaxz.github.io/contact-form-main/))
+- URL del sitio en vivo: [Demo en vivo](https://karlangaxz.github.io/contact-form-main/)
 
 ## Mi Proceso
 
@@ -76,7 +76,3 @@ Para futuros proyectos, planeo:
 
 - GitHub - [KarlangaXZ](https://github.com/KarlangaXZ)
 - Frontend Mentor - [@KarlangaXZ](https://www.frontendmentor.io/profile/KarlangaXZ)
-
-## Agradecimientos
-
-Quiero agradecer a Frontend Mentor por proporcionar este desafío, que ha sido una excelente oportunidad para practicar y mejorar mis habilidades en desarrollo frontend.
